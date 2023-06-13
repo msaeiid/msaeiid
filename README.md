@@ -1,5 +1,4 @@
 <h3>Hello there 👋</h3>
-<p><strong>I'm Saeed</strong> a Software engineer, Data science and Web programming Enthusiast. It's nice to meet you.</p>
 
 <!--
 **msaeiid/msaeiid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
