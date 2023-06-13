@@ -19,8 +19,10 @@
 
 <h3>Here are a few things about me:</h3>
 
-🔭 I’m currently working on odoo 16 😁&nbsp
-🌱 I’m currently learning Data science and Django &nbsp
-👯 I’m looking to collaborate with other Developers 😉 &nbsp
-📫 How to reach me: <a href="https://www.linkedin.com/in/msaeiid/" rel="nofollow">Let's get in touch on linkedin</a> OR <a href = "mailto: mskarbaschian@gmail.com">Send me an Email</a> &nbsp
+<ul>
+  <li>🔭 I’m currently working on odoo 16 😁</li>
+  <li>🌱 I’m currently learning Data science and Django</li>
+  <li>👯 I’m looking to collaborate with other Developers 😉</li>
+<li>📫 How to reach me: <a href="https://www.linkedin.com/in/msaeiid/" rel="nofollow">Let's get in touch on linkedin</a> OR <a href = "mailto: mskarbaschian@gmail.com">Send me an Email</a></li>
+</ul>
 
