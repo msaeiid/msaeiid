@@ -1,9 +1,10 @@
-<img src="https://github.com/tchagau/tchagau/raw/main/matrix.svg" alt="Matrix SVG" style="max-width: 100%;">
 <h3>Hello there 👋</h3>
 <p><strong>I'm Saeed</strong> a Software engineer, Data science and Web programming Enthusiast. It's nice to meet you.</p>
-<img align="right" height="270px" alt="GIF" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" data-canonical-src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-<a href="https://www.linkedin.com/in/msaeiid/" rel="nofollow"><img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<p align="center" dir="auto">
+<br>
+<a href="https://www.linkedin.com/in/msaeiid/" rel="nofollow"><img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;
+</p>
 
 <!--
 **msaeiid/msaeiid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
