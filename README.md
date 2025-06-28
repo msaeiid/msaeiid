@@ -1,14 +1,55 @@
-<h1>Mohammad Saeid Karbaschian محمد سعید کرباسچیان</h1>
+# 👋 Hi, I'm Saeid Karbaschian
 
-# 💫 About Me:
-<br>- 🔭 I’m currently working on **Odoo** and **Django** projects<br>- 🌱 I’m currently learning **Data Science** and diving deeper into **Django**<br>- 👯 I’m looking to collaborate on **open-source projects** with fellow developers<br>- 💬 Ask me about **Odoo, Django, Python, and Web Development**<br>- ⚡ Fun fact: I’m always optimizing code and looking for ways to improve performance!
+🚀 Software Engineer | 🧠 Problem Solver | 🔄 ERP Specialist
 
+I’m a software engineer specializing in building efficient and scalable systems to optimize business performance. With over 3 years of experience developing full-stack web applications and customized ERP solutions—especially using Odoo, Django, and React—I specialize in turning complex workflows into streamlined digital solutions.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mskarbaschian) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mskarbaschian)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mskarbaschian@gmail.com)
+---
 
+## 🧩 About Me
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![Odoo](https://img.shields.io/badge/Odoo-8B4C3A?style=for-the-badge&logo=odoo&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- 🔧 Currently crafting ERP automations and full-stack apps using **Odoo**, **Django**, and **React**
+- 📊 Increased operational efficiency by up to 30% with tailored software solutions
+- 🤝 Collaborative team player who enjoys mentoring and leading high-impact projects
+- 🌍 Worked across multiple sectors, including travel, retail, manufacturing, and tech services
+
+---
+
+## 🛠️ Core Skills
+
+- **Languages:** Python, JavaScript  
+- **Frameworks:** Django, Django REST Framework, React.js, OWL  
+- **ERP:** Odoo (custom modules, workflows, automation)  
+- **Database:** PostgreSQL  
+- **Web Tech:** HTML, CSS, Bootstrap, XML  
+- **Tools:** Git, GitHub, Docker (basic), VS Code, Microsoft Office  
+- **OS:** Windows, Ubuntu  
+
+---
+
+## 🧪 Experience Highlights
+
+- 👨‍💻 **Odoo Developer** at multiple agencies: Customized ERP workflows, boosted automation efficiency by up to 30%
+- 🌐 **Full Stack Developer:** Designed and implemented REST APIs, responsive UIs, and scalable backend systems
+- 🧑‍🏫 **Mentor:** Supported junior devs to grow and align with agile team practices
+
+---
+
+## 🎓 Education
+
+- **Bachelor's:** Computer Software Engineering – Shamsipour Technical and Vocational College  
+- **Associates:** Networking – University of Applied Science and Technology  
+
+---
+
+## 📫 Let's Connect
+
+- 📍 Toronto, ON  
+- 📞 (647) 679-7647  
+- 📧 [mskarbaschian@gmail.com]  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mskarbaschian/)  
+- 📁 Explore my projects to see the code behind the skills!
+
+---
+
+> “Solving business challenges with technology isn’t just a job—it’s what I love.”
