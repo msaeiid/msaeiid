@@ -46,7 +46,7 @@ I’m a software engineer specializing in building efficient and scalable system
 
 - 📍 Toronto, ON  
 - 📞 (647) 679-7647  
-- 📧 [mskarbaschian@gmail.com]  
+- 📧 [Email](mailto:mskarbaschian@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mskarbaschian/)  
 - 📁 Explore my projects to see the code behind the skills!
 
