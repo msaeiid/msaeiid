@@ -1,71 +1,93 @@
-# 👋 Hi, I'm MohammadSaeid Karbaschian
+<h1 align="center">Hi, I'm MohammadSaeid Karbaschian 👋</h1>
 
-**Odoo Developer | Python | Django | React | ERP Implementation & Migration**
+<h3 align="center">Odoo Developer · Python / Django · React + TypeScript</h3>
+<p align="center">ERP implementation &amp; migration · Vaughan, Ontario (Greater Toronto Area) · Authorized to work in Canada</p>
 
-Developer based in Vaughan, Ontario (Greater Toronto Area) with 4+ years of hands-on **Odoo** experience — end-to-end implementations, custom module development, version and data migrations, and long-term support for small and mid-sized businesses — plus web applications built with **Python/Django**, **Django REST Framework** and **React + TypeScript**. Background in technical support and QA for production web platforms.
-
-I care about production-grade patterns: atomic transactions, concurrency safety, background jobs, testing (pytest), linting (Ruff), Docker, and CI/CD. Currently deepening my **AWS** skills (ECS Fargate, RDS, ECR).
-
-🇨🇦 Authorized to work in Canada · Open to Odoo, Python / Django and full-stack (React) developer roles in the GTA or remote.
-
----
-
-## 🛠️ Tech Stack
-
-| Category | Technologies |
-| --- | --- |
-| **Languages** | Python, TypeScript, JavaScript, SQL, HTML, CSS, XML |
-| **Backend** | Django, Django REST Framework, Celery, JWT, Odoo (ORM, QWeb) |
-| **Frontend** | React, Vite, React Router, Recharts |
-| **Data & Cache** | PostgreSQL, Redis |
-| **DevOps** | Docker, Docker Compose, GitHub Actions (CI/CD), Git, Linux, AWS (learning) |
-| **Quality** | pytest, Ruff, pre-commit, Swagger/OpenAPI |
+<p align="center">
+  <a href="https://www.linkedin.com/in/msaeedk/"><img src="https://img.shields.io/badge/LinkedIn-msaeedk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mskarbaschian@gmail.com"><img src="https://img.shields.io/badge/Email-mskarbaschian%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Open_to-Odoo_%7C_Django_%7C_Full--stack-2EA44F?style=for-the-badge" alt="Open to work">
+</p>
 
 ---
 
-## 🚀 Featured Project
+### 👨‍💻 About me
 
-### [StockFlow](https://github.com/msaeiid/stockflow) — Inventory & Order Management System
-Full-stack app that helps small businesses manage products, warehouses, suppliers, and customer orders. Built end-to-end and deployed to production (backend on Render, frontend on Vercel).
+- 🧩 **4+ years of hands-on Odoo** — end-to-end implementations, custom modules, a v8 → v14 migration and long-term support for small and mid-sized businesses
+- 🐍 **Web apps with Python / Django / DRF and React + TypeScript** for client projects
+- ✅ **Production habits** — atomic transactions, background jobs with Celery, pytest, Docker and CI/CD
+- 🌱 **Currently learning** AWS (ECS Fargate, RDS, ECR)
 
-- **Atomic multi-item stock deduction** — all items deduct inside one DB transaction; any shortage rolls back the whole order (no partial orders, no negative stock).
-- **Concurrency-safe** using `select_for_update()` row locking.
-- **Async low-stock alerts** as Celery tasks dispatched via `transaction.on_commit`, with graceful fallback to in-memory cache when Redis is unavailable.
-- **JWT auth** with role-based access (admin / manager / staff).
-- **CI pipeline** on GitHub Actions: pytest against a PostgreSQL service container + Ruff linting.
+### 🛠️ Tech stack
 
-**Stack:** Python, Django, DRF, PostgreSQL, Celery, Redis, React, TypeScript, Vite, Docker, GitHub Actions
-🔗 **Live demo:** demo / demo12345
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" alt="Django REST Framework">
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
+
+### 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/msaeiid/stockflow">📦 StockFlow</a></h4>
+      Inventory &amp; order management for small businesses. Atomic multi-item stock deduction with <code>select_for_update()</code>, Celery low-stock alerts, JWT roles, pytest + CI on GitHub Actions.
+      <br><br>
+      <code>Django</code> <code>DRF</code> <code>PostgreSQL</code> <code>Celery</code> <code>React</code> <code>TypeScript</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://www.hasankakavand.com/en/">🗿 Sculptor portfolio &amp; CMS</a></h4>
+      Paid client website for a sculptor and set designer: Django REST API, a customized admin for galleries, blog, services and reviews, and a multilingual React + TypeScript front end.
+      <br><br>
+      <code>Django</code> <code>DRF</code> <code>React</code> <code>TypeScript</code> <code>Tailwind</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎓 Membership &amp; certificate platform <sub>(volunteer)</sub></h4>
+      Bilingual (English / Persian) platform for a non-profit educational organization: member portal, QR-code check-in, course cohorts, PDF certificates with public verification, 2FA, 950+ backend tests.
+      <br><br>
+      <code>Django 5</code> <code>DRF</code> <code>Celery</code> <code>React 18</code> <code>TypeScript</code> <code>Docker</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📋 Survey &amp; field-interview app <sub>(client: Agah)</sub></h4>
+      Multi-step surveys run by interviewers, answer sheets auto-scored into socio-economic classes, right-to-left interface with Jalali dates.
+      <br><br>
+      <code>Django</code> <code>DRF</code> <code>jQuery</code> <code>Bootstrap</code>
+    </td>
+  </tr>
+</table>
+
+### 💼 Experience
+
+| Period | Role | Company |
+| --- | --- | --- |
+| Dec 2024 – Present | Odoo Developer · contract, remote | Ati Parvaz Tour & Travel agency |
+| Jun 2023 – Present | Software Engineer · freelance (Odoo, Django, React) | Self-employed — clients incl. MPA, Alvan Parand Shimi, Azin Did Faraz Novin, Akam |
+| Feb 2022 – Oct 2022 | Odoo Developer · contract — led the v8 → v14 migration | ABG (Aria Beniz Group) |
+| May 2018 – Nov 2021 | Technical Support & QA Specialist · contract | Fanavaran Etelaat Pishkhan |
+| Oct 2010 – May 2018 | Freelance Developer | Self-employed |
+
+<sub>Full details on <a href="https://www.linkedin.com/in/msaeedk/">LinkedIn</a>.</sub>
+
+### 🎓 Education
+
+- **Bachelor's degree, Computer Software Engineering Technology** — Shamsipour Technical and Vocational College (2017) · WES: Canadian four-year bachelor's equivalent
+- **Associate's degree, Computer Networks** — University of Applied Science and Technology (2015) · WES: Canadian two-year diploma equivalent
 
 ---
 
-## 💼 Experience
-
-- **Odoo Developer — Ati Parvaz Tour & Travel agency** (Dec 2024 – Present · contract, remote) — Implemented Odoo from scratch for a travel agency and modelled the company's existing business flows inside the system; provide ongoing remote support, fixes and enhancements.
-- **Software Engineer — Self-employed** (Jun 2023 – Present · freelance) — Short-term, full-time contract engagements with Odoo, Python / Django and React; clients included MPA, Alvan Parand Shimi, Azin Did Faraz Novin and Akam.
-  - Odoo setup, deployment, customization and post-go-live support — including an optic product pricing matrix in sale orders (cut order-entry clicks ~25–30%), receivable/payable smart buttons for a finance team, and HR/payroll and approvals-to-inventory modules.
-  - Django / DRF back ends and React + TypeScript front ends for paid client projects, including a portfolio & content-management website for a sculptor and set designer.
-  - Volunteer: planned, built and deployed a bilingual (English / Persian) membership, attendance, course and certificate platform for a non-profit educational organization (Django 5, DRF, Celery, PostgreSQL, Redis, React 18 + TypeScript; QR-code check-in, PDF certificates with public verification, 2FA, 950+ backend tests).
-- **Odoo Developer — ABG (Aria Beniz Group)** (Feb 2022 – Oct 2022 · contract) — Led the migration of company data and custom modules from Odoo v8 to v14, rebuilding the project from the ground up; developed new custom modules; retained afterwards for project-based support.
-- **Technical Support & QA Specialist — Fanavaran Etelaat Pishkhan Iranian** (May 2018 – Nov 2021 · contract) — Supported production websites, including national digital-signature and e-Prescription platforms: feature testing, bug reproduction and API verification, ticket triage, a searchable FAQ / knowledge base, and Python scripts to automate support and reporting.
-- **Freelance Developer — Self-employed** (Oct 2010 – May 2018) — Freelance development and project work alongside full-time studies, including survey / data-collection forms for a client company.
-
-## 📂 More Projects
-
-- **[Portfolio website for a sculptor & set designer](https://www.hasankakavand.com/en/)** (client project, Nov 2024 – Aug 2026) — Django REST API, customized Django admin (galleries, blog, services, reviews), CKEditor 5, multilingual React + TypeScript + Vite front end with Tailwind CSS.
-- **Survey & field-interview web app for Agah** (client project, Jul – Aug 2021) — Django 3.2, DRF, jQuery and Bootstrap; interviewers ran multi-step surveys, answer sheets were auto-scored into socio-economic classes, Persian (RTL) interface with Jalali dates.
-
----
-
-## 🎓 Education
-
-- **Bachelor's degree, Computer Software Engineering Technology** — Shamsipour Technical and Vocational College (2017) · WES: equivalent to a Canadian four-year bachelor's degree
-- **Associate's degree, Computer Networks** — University of Applied Science and Technology (2015) · WES: equivalent to a Canadian two-year college diploma
-
----
-
-## 📫 Let's Connect
-
-- 📍 **Location:** Vaughan, Ontario, Canada (Greater Toronto Area)
-- 📧 **Email:** [mskarbaschian@gmail.com](mailto:mskarbaschian@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/msaeedk](https://www.linkedin.com/in/msaeedk/)
+<p align="center">📫 The best way to reach me is <a href="https://www.linkedin.com/in/msaeedk/">LinkedIn</a> or <a href="mailto:mskarbaschian@gmail.com">email</a>.</p>
