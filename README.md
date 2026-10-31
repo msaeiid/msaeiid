@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Saeid Karbaschian
+# 👋 Hi, I'm MohammadSaeid Karbaschian
 
 **Full Stack Developer** — Python · Django · DRF · React · TypeScript · Odoo ERP
 
@@ -41,7 +41,7 @@ Full-stack app that helps small businesses manage products, warehouses, supplier
 
 ## 💼 Experience Highlights
 
-- **Freelance Software Engineer** (Nov 2022 – Present) — End-to-end web and ERP solutions for SMB clients: an optic product pricing matrix integrated into Odoo 17 sale orders (cut order-entry clicks ~25–30%), receivable/payable smart buttons for a finance team, HR/payroll and approvals-to-inventory modules, and a full-stack Django + React client app.
+- **Freelance Software Engineer** (Nov 2022 – Present) — End-to-end web and ERP solutions for SMB clients: an optic product pricing matrix integrated into Odoo 17 sale orders (cut order-entry clicks ~25–30%), receivable/payable smart buttons for a finance team, HR/payroll and approvals-to-inventory modules, a full-stack Django + React client app, and a paid portfolio & content-management website for a sculptor and set designer (Django REST API, customized Django admin, multilingual React + TypeScript front end). As a volunteer, also planned, built and deployed a bilingual (English / Persian) membership, attendance, course and certificate platform for a non-profit educational organization (Django 5, DRF, Celery, PostgreSQL, Redis, React 18 + TypeScript; QR-code check-in, PDF certificates with public verification, 2FA, 950+ backend tests).
 - **Python Developer, Aria Beniz Group** (Feb 2022 – Oct 2022) — Custom Odoo 14 modules for sales/inventory/HR; supported an Odoo v8 → v14 migration.
 - **IT Support Specialist / Python Developer, Fanavaran Etelaat Pishkhan** (May 2018 – Nov 2021) — Supported national digital-signature and e-Prescription platforms; automated operations with Python.
 
@@ -58,4 +58,4 @@ Full-stack app that helps small businesses manage products, warehouses, supplier
 
 - 📍 **Location:** Greater Toronto Area, ON, Canada
 - 📧 **Email:** [mskarbaschian@gmail.com](mailto:mskarbaschian@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/skarbaschian](https://www.linkedin.com/in/skarbaschian/)
+- 🔗 **LinkedIn:** [linkedin.com/in/msaeedk](https://www.linkedin.com/in/msaeedk/)
